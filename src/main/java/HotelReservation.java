@@ -48,7 +48,7 @@ public class HotelReservation {
             return cheapestHotelForRewardDays(qtdDaysNormals, qtdDaysWeekend).getName();
         }
 
-        return null;
+        return "";
     }
 
 
